@@ -1,0 +1,14 @@
+.catalog_image{
+    width: 100%;
+    max-height: 800px;
+}
+.catalog__container{
+    padding: 18px 24px;
+    background-color:white;
+    margin-top: 24px;
+    display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-gap:40px;
+    border-radius: 12px;
+    box-shadow: 0px 1.375px 1.935px -0.875px rgba(0,0,0,0.2), 0px 3px 4.749px 0.375px rgba(0,0,0,0.14), 0px 1.125px 5.748px 1.000px rgba(0,0,0,0.12);
+}

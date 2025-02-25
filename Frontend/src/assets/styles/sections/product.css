@@ -1,0 +1,8 @@
+.product__item{
+    font-weight: 400;
+    font-size: 20px;
+}
+.product__img{
+    object-fit: contain;
+    width: 570px;
+}
